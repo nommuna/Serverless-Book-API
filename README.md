@@ -14,3 +14,4 @@ This is the serverless approach of the BookAPI using Firebase.
 - Node - JavaScript Runtime.
 - Express - Web Framework.
 - Cloud Firestore - Google NoSQL database on the cloud (https://firebase.google.com/docs/firestore).
+- Cloud Functions - Back-end code on the cloud (https://firebase.google.com/docs/functions)
